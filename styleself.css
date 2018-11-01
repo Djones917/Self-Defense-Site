@@ -1,0 +1,152 @@
+body {
+    background: black; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(black, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(black, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(black, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black, white); /* Standard syntax */
+}
+/* End of body */
+
+
+
+body {
+    background: black; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(black, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(black, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(black, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black, white); /* Standard syntax */
+}
+/* End of body */
+
+
+.jumbotron {
+  background-color: #e60000;
+  /* height: 500px; */
+  border: 4px solid black; 
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  text-shadow: 4px 4px black;
+  
+}
+
+.jumbotron h2 {
+  color: #ffffff;
+}
+
+.jumbotron p {
+  color: #ffffff;
+  margin-top: 20px;  
+}
+
+.col-md-6 {
+	text-align: center;
+}
+
+.col-md-6 img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jumbotron button {
+	background-color: #fff !important;
+	border: 2px solid #000;
+	height: 50px;
+	width: 150px;
+	margin: 20px auto;
+	color: #000;
+}
+
+.jumbotron button:hover {
+	background-color: #000 !important;
+	border: 2px solid #000;
+	color: #fff !important;
+}
+
+
+
+
+
+.container {
+  background-color: #fff;
+}
+/* End of container */
+
+
+
+.author {
+	margin-top: 50px !important;
+	margin-bottom: 100px !important;
+}
+/* End of author */
+
+
+
+.media {
+	padding: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px grey;
+}
+/* End of media */
+
+
+
+.product button {
+	height: 100px !important;	
+	background-color: #e60000 !important;
+	font-size: 40px !important;	
+	border: 4px solid black !important; 
+}
+
+.product button:hover {
+	height: 100px !important;	
+	background-color: #FF0000 !important;
+	font-size: 40px !important;	
+	border: 4px solid black !important; 
+}
+/* End of button */
+
+
+ul {
+	list-style-image: url("https://dl.dropboxusercontent.com/u/4283055/pics/Yin_and_Yang1.jpg");
+}
+
+li {
+	font-size: 18px;
+	text-align: justify;
+}
+/* End of ul and li */
+
+
+form {
+	background-color: #e60000;
+	padding: 20px 10px 20px 10px;
+	border: 4px solid black; 
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+	margin-bottom: 40px;
+	font-size: 18px;
+}
+
+form:hover {
+	background-color: #FF0000 !important;
+}
+
+label {
+	color: white;
+}
+/* End of form */
+
+
+
+.footer {
+	background-color: #e60000;
+	color: #ffffff;
+	padding: 5px 10px 5px 10px;
+}
+/* End of footer */
+
+
+
+
+
